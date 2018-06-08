@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "959532170427",
+    "firebase_url": "https://meualbumdefotosfatecipitarde.firebaseio.com",
+    "project_id": "meualbumdefotosfatecipitarde",
+    "storage_bucket": "meualbumdefotosfatecipitarde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959532170427:android:9dd3c86af50d15c5",
+        "android_client_info": {
+          "package_name": "br.com.bossini.meualbumdefotosfatecipitarde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959532170427-q6r5stoukb4gmdtrmkqqga4ntrbl1ivo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.meualbumdefotosfatecipitarde",
+            "certificate_hash": "43f8b187a57ef46fcd0780c3bd438e893b4161d5"
+          }
+        },
+        {
+          "client_id": "959532170427-hhd9aas09iffqsm6dt9k91465o3o0pmg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "959532170427-hhd9aas09iffqsm6dt9k91465o3o0pmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0V3QVjKWpcnEBi7h6UMKp6UZtS5SHafQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959532170427-hhd9aas09iffqsm6dt9k91465o3o0pmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
